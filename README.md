@@ -19,10 +19,10 @@ Hi, thank you for taking the time to view my GitHub profile 😊
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 📊 GitHub Stats
-![Stotka3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stotka3&show_icons=true&theme=radical)
+![Š1fr4F4nt0m's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stotka3&show_icons=true&theme=radical)
 
 ### 🔒 Pinned Repositories
-- [Stotka3](https://github.com/Stotka3/Stotka3) - Public Repository
+- [Š1fr4F4nt0m](https://github.com/Stotka3/Stotka3) - Public Repository
 - [ideal-pancake](https://github.com/Stotka3/ideal-pancake) - Public Repository
 - [LogoWorks](https://github.com/Stotka3/LogoWorks) - Public Repository
 
